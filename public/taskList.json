@@ -1,0 +1,32 @@
+[
+    {
+        "title": "Refactor User Authentication Module",
+        "description": "Optimize codebase for improved security and efficiency.",
+        "deadline": "2023-03-15",
+        "status": "ongoing"
+    },
+    {
+        "title": "Implement Dashboard UI Updates",
+        "description": "Redesign the user dashboard for a more intuitive interface.",
+        "deadline": "2023-04-20",
+        "status": "to-do"
+    },
+    {
+        "title": "Bug Fix: Payment Gateway Integration",
+        "description": "Resolve issues with payment processing module.",
+        "deadline": "2023-02-10",
+        "status": "completed"
+    },
+    {
+        "title": "Create Automated Testing Suite",
+        "description": "Develop comprehensive test suite for improved code quality.",
+        "deadline": "2023-05-30",
+        "status": "to-do"
+    },
+    {
+        "title": "Optimize Database Queries",
+        "description": "Enhance database performance by optimizing queries.",
+        "deadline": "2023-03-05",
+        "status": "ongoing"
+    }
+]
